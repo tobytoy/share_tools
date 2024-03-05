@@ -15,6 +15,6 @@ npm install -g localtunnel
 npm install -g @vue/cli
 
 # vue
-cd ~
-vue create project_vue
+# cd ~
+# vue create project_vue
 
